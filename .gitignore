@@ -1,3 +1,37 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
 node_modules/
-.git
+dist/
+build/
+
+# Debugging
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
 .env
+.env.local
+.env.*.local
+
+# Build artifacts
+*.rpt
+*.pdf
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Compiled output
+*.js
+*.map
+*.json
