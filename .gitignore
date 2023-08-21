@@ -32,6 +32,5 @@ Thumbs.db
 *.sublime-workspace
 
 # Compiled output
-*.js
 *.map
 *.json
